@@ -1,0 +1,11 @@
+# === Rust ===
+target/
+Cargo.lock
+
+# === General ===
+.env
+*.log
+.DS_Store
+
+# === VS Code ===
+.vscode/
